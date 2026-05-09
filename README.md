@@ -139,23 +139,15 @@ VendingMachine/
 
 ## 🤝 Contributing
 
-This is a completed school project created for educational purposes by **Group 6 - BSCS 2B**.
-
-While the code is public for learning and reference, **this project is not actively maintained**.
+This is a completed school project and is not actively maintained.
 
 Feel free to fork it for your own learning!
 
 ---
 
-## ⚠️ Educational Purpose
+## 🙏 Acknowledgements
 
-This project was created for **educational purposes** as part of learning finite-state machines and Windows Forms development. While functional, it is:
-- 📚 A learning/portfolio project
-- 🎓 Not intended for commercial production use
-- 🔧 Demonstrates computer science concepts (Moore machines, state patterns)
-- 💡 Open for learning, experimentation, and improvement
-
-**Feel free to use this as a learning resource, contribute improvements, or adapt it for your own educational projects!**
+> Final project for CC105 - Automata Theory and Formal Language · BSCS 2B · Group 6 · 2025
 
 ---
 
@@ -169,7 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**© 2025 Group 6 | BSCS 2B**
+**© 2026 Group 6 | BSCS 2B**
 
 ### 🌟 Star this repository if you found it helpful!
 
